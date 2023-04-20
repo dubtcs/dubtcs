@@ -1,5 +1,7 @@
 ## Thanks for visiting my profile!
 
+I'm Daulton, an avid gamer and programming enthusiast.
+
 ### Major Projects
 
  - [AxtEngine](https://github.com/dubtcs/AxtEngine) : In development game engine
@@ -9,6 +11,8 @@
 
  - [Profiler](https://github.com/dubtcs/Profiler.git) : Profiling/benchmarking system
  - Various school projects
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dubtcs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dubtcs/dubtcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
