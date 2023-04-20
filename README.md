@@ -12,7 +12,6 @@ I started programming in 5th grade with scratch. In highschool I began working w
 ## Minor Projects
 
  - [Profiler](https://github.com/dubtcs/Profiler.git) : Profiling/benchmarking system
- - Various school projects
  - [Roblox RPG](https://www.roblox.com/games/8406468825/RPG-Testbed-Main) : Roblox RPG with AI, Character Creation, Skills, Quests, Inventory, and fully customizable keybinds and fov sliders
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dubtcs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
