@@ -3,7 +3,7 @@
 ### Major Projects
 
  - [AxtEngine](https://github.com/dubtcs/AxtEngine) : In development game engine
- - [nECS](https://github.com/dubtcs/nECS) ;  C++ ECS used in AxtEngine
+ - [nECS](https://github.com/dubtcs/nECS) : C++ ECS used in AxtEngine
 
 ## Minor Projects
 
