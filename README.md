@@ -1,6 +1,6 @@
 ## Thanks for visiting my profile!
 
-I'm Daulton, an avid gamer and programming enthusiast.
+I'm Daulton, I love games and everything involving their creation.
 
 ### Major Projects
 
