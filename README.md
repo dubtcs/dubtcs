@@ -1,9 +1,14 @@
-### Thanks for visiting my profile!
+## Thanks for visiting my profile!
 
-## Major Projects
+### Major Projects
 
- - [AxtEngine](https://github.com/dubtcs/AxtEngine)
- - [nECS](https://github.com/dubtcs/nECS)
+ - [AxtEngine](https://github.com/dubtcs/AxtEngine) : In development game engine
+ - [nECS](https://github.com/dubtcs/nECS) ;  C++ ECS used in AxtEngine
+
+## Minor Projects
+
+ - [Profiler](https://github.com/dubtcs/Profiler.git) : Profiling/benchmarking system
+ - Various school projects
 
 <!--
 **dubtcs/dubtcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
