@@ -2,6 +2,8 @@
 
 I'm Daulton, I love games and everything involving their creation.
 
+I started programming in 5th grade with scratch. In highschool I began working with roblox. Now I like to work with C++, but love anything and everything invloved with software development :)
+
 ### Major Projects
 
  - [AxtEngine](https://github.com/dubtcs/AxtEngine) : In development game engine
