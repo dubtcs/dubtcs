@@ -2,7 +2,7 @@
 
 I'm Daulton, I love games and everything involving their creation.
 
-I started programming in fifth grade with scratch. In highschool I began working with roblox and lua. Now I like to work with C++, but love anything and everything invloved with software development :)
+I started programming in fifth grade with scratch. In highschool I began working with roblox and lua. Now I like to work with C++, but love all software development :)
 
 ### Major Projects
 
