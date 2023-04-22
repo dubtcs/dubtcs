@@ -4,7 +4,7 @@ I'm Daulton, I love games and everything involving their creation.
 
 I started programming in fifth grade with scratch. In highschool I began working with roblox and lua. Now I like to work with C++, and love all of software development :)
 
-### Major Projects
+## Major Projects
 
  - [AxtEngine](https://github.com/dubtcs/AxtEngine) : In development game engine
  - [nECS](https://github.com/dubtcs/nECS) : C++ ECS used in AxtEngine
