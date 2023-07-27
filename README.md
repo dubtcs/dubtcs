@@ -6,8 +6,9 @@ I started programming in fifth grade with scratch. In highschool I began working
 
 ## Major Projects
 
- - [AxtEngine](https://github.com/dubtcs/AxtEngine) : In development game engine
- - [nECS](https://github.com/dubtcs/nECS) : C++ ECS used in AxtEngine
+ - [NxtViewer](https://github.com/dubtcs/Next) : GLTF Model Viewer
+ - [AxtEditor](https://github.com/dubtcs/AxtEngine) : 2D/3D Scene Editor
+ - [nECS](https://github.com/dubtcs/nECS) : C++ ECS used in AxtEditor and NxtViewer
 
 ## Minor Projects
 
