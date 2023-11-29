@@ -10,6 +10,10 @@ I started programming in fifth grade with scratch. In highschool I began working
  - [AxtEditor](https://github.com/dubtcs/AxtEngine) : 2D/3D Scene Editor
  - [nECS](https://github.com/dubtcs/nECS) : C++ ECS used in AxtEditor and NxtViewer
 
+## Educational/Research Projects
+
+ - [nand](https://github.com/dubtcs/nand) : 16 bit computer from chip design to operating system
+
 ## Minor Projects
 
  - [Profiler](https://github.com/dubtcs/Profiler.git) : Profiling/benchmarking system
