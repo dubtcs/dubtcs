@@ -13,6 +13,7 @@ I started programming in fifth grade with scratch. In highschool I began working
 ## Educational/Research Projects
 
  - [nand](https://github.com/dubtcs/nand) : 16 bit computer from chip design to operating system
+ - [ostep](https://github.com/dubtcs/ostephw) : Operating systems programming
 
 ## Minor Projects
 
