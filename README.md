@@ -17,6 +17,7 @@ I started programming in fifth grade with scratch. In highschool I began working
 
 ## Minor Projects
 
+ - [RPG](https://github.com/dubtcs/textbased) : 2D Text Based RPG being made in Godot
  - [Profiler](https://github.com/dubtcs/Profiler.git) : Profiling/benchmarking system
  - [RaytracerHTML](https://github.com/dubtcs/RaytracerHTML) : Software raytracer in with HTML and JavaScript
  - [Roblox RPG (takes you to roblox.com)](https://www.roblox.com/games/8406468825/RPG-Testbed-Main) : Roblox RPG with AI, Character Creation, Skills, Quests, Inventory, and fully customizable keybinds and fov sliders.
