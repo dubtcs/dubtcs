@@ -13,6 +13,7 @@ I'm Daulton, I love games, computers, and everything involving their creation. I
 
  - [nand](https://github.com/dubtcs/nand) : 16 bit computer from chip design to operating system
  - [ostep](https://github.com/dubtcs/ostephw) : Operating systems programming
+ - [parallel scala](https://github.com/dubtcs/para_scala) : Parallel programming in scala
 
 ## Minor Projects
 
