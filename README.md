@@ -1,6 +1,3 @@
-## Thanks for visiting my profile!
-
-I'm Daulton, I love games, computers, and everything involving their creation. I strive to learn as much as possible and gain experience in as many disciplines as I can.
 
 ## Major Projects
 
